@@ -1,0 +1,89 @@
+2025-03-19 15:05:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:08:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:10:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:11:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:13:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:13:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 15:13:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-19 15:13:58 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-19 15:13:58 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-19 15:14:03 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-19 15:14:03 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-19 15:14:03 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 15:14:06 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-19 15:14:06 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-19 15:14:07 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-19 15:14:07 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-19 15:14:07 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-03-19 15:14:08 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-03-19 15:15:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:15:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:16:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:17:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:22:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 15:22:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 16:43:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 16:50:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 16:52:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 16:57:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 16:58:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 22:01:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:01:43 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:01:43 ERROR TC001_AccountRegistrationTest:52 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-03-19 22:01:43 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:03:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:03:43 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:03:43 ERROR TC001_AccountRegistrationTest:52 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-03-19 22:03:43 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:06:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:12:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:13:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:15:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:15:23 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:15:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-19 22:15:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-19 22:15:28 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...

@@ -1,0 +1,69 @@
+2025-03-18 14:53:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:00:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:01:18 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-18 15:01:20 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-18 15:01:21 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-18 15:01:21 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-18 15:01:26 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-18 15:01:26 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-18 15:01:26 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-18 15:01:32 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-18 15:01:33 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-18 15:01:34 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-18 15:01:34 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-18 15:27:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:27:25 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-18 15:27:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-18 15:27:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-18 15:27:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-18 15:27:30 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-18 15:27:30 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-18 15:27:30 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-18 15:27:36 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-18 15:27:37 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-18 15:27:37 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-18 15:27:37 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-18 15:27:38 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-03-18 15:27:39 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-03-18 15:46:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:46:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:53:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:54:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:54:57 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-18 15:54:58 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-18 15:54:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-18 15:54:59 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-18 15:55:02 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-18 15:55:02 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-18 15:55:02 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-18 15:55:07 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-18 15:55:08 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-18 15:55:08 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-18 15:55:08 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-18 15:55:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-18 15:55:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-18 15:55:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-18 15:55:57 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-18 15:55:57 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-18 15:55:58 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-18 15:56:01 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-18 15:56:01 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-18 15:56:06 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-18 15:56:07 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-18 15:56:07 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..

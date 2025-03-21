@@ -1,0 +1,42 @@
+2025-03-19 22:16:54 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:16:54 ERROR TC001_AccountRegistrationTest:52 - Test failed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\viswa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51364/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-03-19 22:16:54 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:17:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
+
+2025-03-19 22:17:40 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:17:40 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-03-19 22:17:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-03-19 22:17:41 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-03-19 22:17:44 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2025-03-19 22:17:44 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2025-03-19 22:17:44 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:17:48 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-19 22:17:49 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-19 22:17:50 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-19 22:17:50 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-19 22:17:51 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-03-19 22:17:51 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-03-19 22:19:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:46:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:50:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 22:50:48 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-03-19 22:50:48 ERROR TC001_AccountRegistrationTest:51 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-03-19 22:50:48 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:53:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+
+2025-03-19 23:01:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\viswa\eclipse-workspace1\OpencartV121\grid-docker.xml
+

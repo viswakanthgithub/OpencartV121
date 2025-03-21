@@ -1,0 +1,13 @@
+2025-03-19 22:15:57 ERROR TC001_AccountRegistrationTest:52 - Test failed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\viswa\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51328}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51328/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2025-03-19 22:15:58 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-03-19 22:16:50 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-03-19 22:16:51 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-03-19 22:16:52 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-03-19 22:16:52 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-03-19 22:16:52 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-03-19 22:16:53 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
