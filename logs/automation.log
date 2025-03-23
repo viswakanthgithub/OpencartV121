@@ -1,54 +1,9 @@
-2025-03-23 17:46:56 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 17:47:04 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-03-23 17:47:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2025-03-23 17:47:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2025-03-23 17:47:06 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2025-03-23 17:47:10 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
-2025-03-23 17:47:10 INFO  TC001_AccountRegistrationTest:48 - Test passed
-2025-03-23 17:47:10 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
-2025-03-23 17:47:13 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-03-23 17:47:13 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
-2025-03-23 17:47:14 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
-2025-03-23 17:47:14 INFO  TC002_LoginTest:30 - Entering valid email and password..
-2025-03-23 17:47:15 INFO  TC002_LoginTest:34 - clicked on ligin button..
-2025-03-23 17:47:15 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
-2025-03-23 17:49:13 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 17:54:17 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 17:54:26 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 17:54:37 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 17:54:38 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 17:54:49 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 17:55:00 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 17:55:11 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 17:55:22 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:06:24 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 18:06:31 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:06:33 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:06:33 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:07:16 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 18:07:22 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:07:24 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:07:24 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:15:57 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\viswa\eclipse-workspace1\OpencartV121\master.xml
-
-2025-03-23 18:16:03 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:16:04 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:16:05 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:16:15 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:16:16 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:16:27 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:16:27 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:16:38 INFO  TC003_LoginDDT:24 - ****Login Page ***********
-2025-03-23 18:16:49 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
-2025-03-23 18:16:49 INFO  TC003_LoginDDT:24 - ****Login Page ***********
+2025-03-23 19:24:31 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
+2025-03-23 19:24:31 INFO  TC003_LoginDDT:24 - ****Login Page ***********
+2025-03-23 19:24:42 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
+2025-03-23 19:24:43 INFO  TC003_LoginDDT:24 - ****Login Page ***********
+2025-03-23 19:24:53 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
+2025-03-23 19:24:54 INFO  TC003_LoginDDT:24 - ****Login Page ***********
+2025-03-23 19:25:05 INFO  TC003_LoginDDT:24 - ****Login Page ***********
+2025-03-23 19:25:16 INFO  TC003_LoginDDT:70 - **** Finished TC_003_LoginDDT *****
+2025-03-23 19:25:16 INFO  TC003_LoginDDT:24 - ****Login Page ***********
